@@ -6,7 +6,7 @@
         "approverId": "2",
         "restaurantId": "1",
         "totalPrice": 200,
-        "delivery": true,
+        "delivery": "1",
         "deliveryAddress": "11, Street, City"
     }
 ]
